@@ -1,6 +1,14 @@
 h1 {
   color: #4be070;
   text-align: center;
+  font-size: 2.5em;
+  background-image: linear-gradient(#1679fa, #8d28e0);
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0.5em;
+  border: 2px solid #1e1fe0;
+  box-shadow: 5px 5px 5px black;
 }
 
 body {
@@ -40,6 +48,8 @@ td {
 
 thead {
   background-color: #8d28e0;
+  color: #4be070;
+  font-size: 1.5em;
 }
 
 tbody tr:nth-child(2n) {
