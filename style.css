@@ -27,6 +27,12 @@ table {
   box-shadow: 5px 5px 5px black;
 }
 
+caption {
+  caption-side: bottom;
+  color: #4be070;
+  background-color: #8d28e0;
+}
+
 table,
 th,
 td {
